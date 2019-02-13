@@ -99,7 +99,7 @@ const infinities = [
     hometown: "Khubar",
     interests: ["Hiking", "Skydiving", "Running", "Walking"]
   }, , {
-    name: Mohammed["Jameel", "Alahmed"],
+    name: ["Mohammed Jameel", "Alahmed"],
     age: 42,
     hometown: "Khubar",
     interests: ["Hiking", "Skydiving", "Running", "Walking"]
@@ -109,7 +109,7 @@ const infinities = [
     hometown: "Khubar",
     interests: ["Hiking", "Skydiving", "Running", "Walking"]
   }, {
-    name: Mohammed["Saleh", "Rashidi"],
+    name: ["Mohammed Saleh", "Rashidi"],
     age: 42,
     hometown: "Khubar",
     interests: ["Hiking", "Skydiving", "Running", "Walking"]
